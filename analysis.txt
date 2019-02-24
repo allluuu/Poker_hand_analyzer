@@ -1,0 +1,7 @@
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:06:47) [MSC v.1914 32 bit (Intel)] on win32
+runfile('C:/Users/Aleksi/PycharmProjects/Comic/PokerHand.py', wdir='C:/Users/Aleksi/PycharmProjects/Comic')
+Player 1 hand: [2 of Diamonds, 3 of Spades, 13 of Spades, 7 of Diamonds, 5 of Hears]
+Player 2 hand: [13 of Diamonds, 12 of Spades, 12 of Diamonds, 9 of Diamonds, 13 of Hears]
+Player 3 hand: [7 of Clubs, 8 of Hears, 10 of Spades, 1 of Spades, 8 of Spades]
+Player 2 won with two pairs
+[13 of Diamonds, 12 of Spades, 12 of Diamonds, 9 of Diamonds, 13 of Hears]
